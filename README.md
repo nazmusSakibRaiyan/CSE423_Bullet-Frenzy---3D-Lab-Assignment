@@ -22,3 +22,34 @@ Bullet Frenzy is a 3D shooting game built with Python and PyOpenGL. Control a gu
 1. Install the required libraries:
    ```bash
    pip install PyOpenGL PyOpenGL_accelerate
+
+2. Run the game:
+
+-- bash
+python main.py
+
+
+
+
+Controls
+Arrow Keys: Move the player
+
+Spacebar: Shoot bullets
+
+W/A/S/D: Camera rotation
+
+Q/E: Zoom in/out
+
+C: Toggle cheat mode
+
+R: Reset game
+
+ESC: Exit game
+
+Notes
+Only functions provided in the project template were used.
+
+Designed for a smooth gameplay experience without external dependencies beyond PyOpenGL.
+
+License
+This project is for educational purposes.
